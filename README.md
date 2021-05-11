@@ -5,4 +5,4 @@ The label of a vertex represents the main research field of the author, "Databas
  
 Database: SIGMOD, ICDE, VLDB, PODS, ICDT, EDBT; Machine Learning: NeurIPS, ICML, COLT, UAI, AISTATS; System: OSDI, SOSP, NSDI, ISCA, ASPLOS, SIGCOMM; Theory: STOC, SODA, FOCS; Data Mining: SIGKDD, CIKM, WSDM, ICDM, SDM, WWW; Natural Language Processing: ACL, EMNLP, NAACL; Computer Vision: CVPR, ECCV, ICCV.
 
-There are three files under the data folder. The "edges.txt" is the graph edge list, "vertex_to_field.txt" represents the vertex label and "vertex_to_name.txt" is corresponding the real author mame.
+There are three files under the data folder. The "edges.txt" is the graph edge list, "vertex_to_field.txt" represents the vertex label and "vertex_to_name.txt" is corresponding to the author mame.
